@@ -1,2 +1,2 @@
-# HumanDetection_and_Counting
+# HumanDetection
 Real time human detection and counting
